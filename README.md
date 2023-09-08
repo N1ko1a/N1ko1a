@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=007ACC&logo=TypeScript&logoColor=FFFFFF&label=)
 ![OpenGL](https://img.shields.io/static/v1?style=for-the-badge&message=OpenGL&color=5586A4&logo=OpenGL&logoColor=FFFFFF&label=)
+![Solidity](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=)
+![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=)
 
 
 <div align="center">
