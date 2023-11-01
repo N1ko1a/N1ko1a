@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![OpenGL](https://img.shields.io/static/v1?style=for-the-badge&message=OpenGL&color=5586A4&logo=OpenGL&logoColor=FFFFFF&label=)
 ![Solidity](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=)
 ![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=)
+![Framer Motion and Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Framer%20Motion%20%2B%20Tailwind%20CSS&color=059669&logo=Framer&logoColor=FFFFFF&label=)
 
 
 <div align="center">
